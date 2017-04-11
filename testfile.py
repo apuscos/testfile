@@ -1,2 +1,4 @@
-def printMyName():
-    print ("Richard")
+def printMyName(Name):
+    print (Name)
+
+printMyName("Richard")
